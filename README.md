@@ -69,6 +69,7 @@ accuracy
 ![image](https://github.com/user-attachments/assets/176b6644-01ba-4a58-afa2-bb41dffac21d)
 
 **Info():**
+
 ![image](https://github.com/user-attachments/assets/043d1680-3287-42f6-8b5c-af44183eed78)
 
 **isnull().sum():**
