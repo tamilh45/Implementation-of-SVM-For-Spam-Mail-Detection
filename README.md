@@ -59,22 +59,28 @@ accuracy
 ```
 
 ## Output:
+
 **Encoding:**
+
 ![image](https://github.com/user-attachments/assets/8d616207-5b17-40f1-807f-fb4e0f7b07fd)
 
 **Head():**
+
 ![image](https://github.com/user-attachments/assets/176b6644-01ba-4a58-afa2-bb41dffac21d)
 
 **Info():**
 ![image](https://github.com/user-attachments/assets/043d1680-3287-42f6-8b5c-af44183eed78)
 
 **isnull().sum():**
+
 ![image](https://github.com/user-attachments/assets/e70abdfa-55b8-4b62-bb50-a191ea51b58d)
 
 **Prediction of y:**
+
 ![image](https://github.com/user-attachments/assets/43f37d41-9792-4001-99aa-a3e0bfdf7a8c)
 
 **Accuracy:**
+
 ![image](https://github.com/user-attachments/assets/a1b94be1-e5ad-4f7d-9745-33848fb2945a)
 
 
